@@ -1,0 +1,62 @@
+{
+    "widgets": [],
+    "menus": {
+        "locations": [],
+        "links": []
+    },
+    "pages": [
+        {
+            "title": "Spherium Inc",
+            "slug": "front-page",
+            "template": "front-page.php",
+            "file_name": "index.html"
+        }
+    ],
+    "forms": {
+        "2814870869": {
+            "gfid": 2814870869,
+            "gfname": "Spherium Inc Page - Form",
+            "data": [
+                {
+                    "tag_name": "input",
+                    "name": "html2wp5c47f5ee320a3",
+                    "placeholder": "Your name",
+                    "required": 1,
+                    "id": "name",
+                    "class": "form-control",
+                    "type": "text"
+                },
+                {
+                    "tag_name": "input",
+                    "name": "html2wp5c47f5ee32133",
+                    "placeholder": "Your email",
+                    "required": 1,
+                    "id": "email",
+                    "class": "form-control",
+                    "type": "email"
+                },
+                {
+                    "tag_name": "textarea",
+                    "name": "html2wp5c47f5ee3219a",
+                    "placeholder": "Your message",
+                    "required": 1,
+                    "id": "message",
+                    "class": "form-control",
+                    "cols": "",
+                    "rows": "5"
+                }
+            ],
+            "class": "shake",
+            "id": "contactForm",
+            "upload": false
+        }
+    },
+    "forms_map": {
+        "front-page": [
+            2814870869
+        ],
+        "404": []
+    },
+    "posts_per_page": 0,
+    "taxonomies": []
+}
